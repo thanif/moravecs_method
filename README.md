@@ -20,4 +20,8 @@ all shifts will result in a large change. A corner can
 thus be detected by finding when the minimum change
 produced by any of the shifts is large.
 
+# References
+
+https://drive.google.com/viewerng/viewer?url=http://www.bmva.org/bmvc/1988/avc-88-023.pdf
+
 ![alt text](demo.gif)

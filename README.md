@@ -19,3 +19,5 @@ C. If the windowed patch is a corner or isolated point, then
 all shifts will result in a large change. A corner can
 thus be detected by finding when the minimum change
 produced by any of the shifts is large.
+
+![alt text](demo.gif)

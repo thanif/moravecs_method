@@ -22,6 +22,6 @@ produced by any of the shifts is large.
 
 # References
 
-https://drive.google.com/viewerng/viewer?url=http://www.bmva.org/bmvc/1988/avc-88-023.pdf
+https://www.bmva-archive.org.uk/bmvc/1988/avc-88-023.pdf
 
 ![alt text](demo.gif)
